@@ -14,8 +14,7 @@ Android 端末画面上に常に表示されるショートカットアイコン
 - 一覧より選択されたアプリのフロートショートカットを作成
 
 ## Demo
-
-https://youtu.be/tpYo33pP39U
+![FloatIconApp](https://github.com/user-attachments/assets/0cee9fd8-9062-4ab8-8b1a-b630dfbed57f)
 
 ## Author
 
